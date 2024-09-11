@@ -1,5 +1,5 @@
 # Digital Network Empowerment:
-                            This repository contains projects completed during the Digital Network Empowerment internship program.
+    This repository contains projects completed during the Digital Network Empowerment internship program.
 
  # First Project:
 # Weather Forecasting App
