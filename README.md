@@ -29,3 +29,32 @@ Clear Screen: It eliminates unnecessary data from the screen so as to enhance vi
 Exit Option: It is possible for users to exit the program with minimum difficulty.
 ## Dependencies
         No external libraries required.
+ # Third Project:
+# C++ File Compression and Decompression Tool
+ Overview:
+           A simple tool for compressing and decompressing files using C++. It reduces file size for storage and restores it back efficiently.
+
+Features:
+        Compress & decompress files
+        Fast, efficient algorithms
+        Command-line interface
+        Cross-platform support
+        Technologies:
+Language: 
+         C++
+Concepts: 
+          File handling, algorithms
+ # Forth project: 
+  ## C++ Multi-threaded HTTP Server
+Overview:
+          A multi-threaded HTTP server built in C++ that handles concurrent requests and serves static HTML files.
+
+Features:
+         Handles multiple HTTP requests concurrently
+         Serves static HTML files
+         Lightweight and efficient design
+## Technologies:
+Language: 
+          C++
+Concepts: 
+          Multi-threading, HTTP protocol, file handling
